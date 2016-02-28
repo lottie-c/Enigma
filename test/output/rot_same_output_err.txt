@@ -1,0 +1,1 @@
+Attempted mapping of an input to more than one output in test/rotor/same_output.rot

@@ -1,0 +1,1 @@
+a is not a valid input character (input characters must be upper case letters A-Z)!

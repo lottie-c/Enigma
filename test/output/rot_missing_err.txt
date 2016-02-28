@@ -1,0 +1,1 @@
+Not all inputs mapped in test/rotor/missing.rot

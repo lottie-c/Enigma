@@ -1,0 +1,1 @@
+Non-numeric character in file test/reflector/special2.rf

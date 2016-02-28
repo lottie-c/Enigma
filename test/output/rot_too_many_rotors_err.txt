@@ -1,0 +1,1 @@
+A starting position has not been specified for all rotors.

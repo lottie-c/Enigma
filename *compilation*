@@ -1,0 +1,8 @@
+-*- mode: compilation; default-directory: "~/mcslab_2_cmc115/" -*-
+Compilation started at Tue Nov 17 13:56:46
+
+make -k 
+g++ -Wall -c main.cpp
+g++ -Wall -g main.o plugboard.o reflector.o rotor.o helper.o -o enigma
+
+Compilation finished at Tue Nov 17 13:56:46

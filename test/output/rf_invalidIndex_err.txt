@@ -1,0 +1,1 @@
+A value less than 0 of greater than 25 was found in file rotors/I.rot
